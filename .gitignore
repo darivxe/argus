@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# SQLite
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Logs
+*.log
